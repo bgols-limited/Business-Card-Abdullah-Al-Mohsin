@@ -14,7 +14,9 @@ Tested in headless Chromium with the iPhone 13 (390 × 844) and Galaxy S9+ (320 
 | `contact.vcf`: vCard 3.0, CRLF, lines ≤ 75 octets, two mobile numbers, one email, three labelled office addresses, embedded 256 px photo | Pass |
 | card.html, nfc-setup.html, email-signature.html, manifest, sw.js load | Pass |
 
-## Still to test on his real phone (iPhone or Android)
+## Still to test on his real phone (Nothing CMF Phone 2 Pro, Chrome)
+
+Installability checked in Chromium (Pixel 7 profile) under the real /Business-Card-Abdullah-Al-Mohsin/ path: no installability errors, service worker active, manifest parsed.
 
 - [ ] Save Contact shows the contact with photo, both numbers, email, three office addresses, website and card link.
 - [ ] Add to Home Screen icon and name ("A. Al Mohsin").

@@ -153,6 +153,14 @@
     deferredPrompt.userChoice.finally(function () { deferredPrompt = null; installBtn.hidden = true; });
   });
   window.addEventListener("appinstalled", function () { installBtn.hidden = true; toast("Added to Home Screen"); });
+  // Visible button in the "Add to Home Screen" panel: uses the browser's install prompt when it is
+  // available, otherwise points to the written steps right below it.
+  $("#installBtn2").addEventListener("click", function () {
+    if (deferredPrompt) { installBtn.click(); return; }
+    if (window.matchMedia("(display-mode: standalone)").matches) { toast("Already opened from the Home Screen"); return; }
+    $("#installHint").scrollIntoView({ behavior: "smooth", block: "center" });
+    toast(/iPhone|iPad/.test(navigator.userAgent) ? "Safari: Share › Add to Home Screen" : "Chrome: ⋮ › Add to home screen");
+  });
 
   // ---------- offline support ----------
   if ("serviceWorker" in navigator && (location.protocol === "https:" || location.hostname === "localhost")) {

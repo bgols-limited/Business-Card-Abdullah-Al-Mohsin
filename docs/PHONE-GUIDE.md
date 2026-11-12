@@ -1,4 +1,4 @@
-# Abdullah Al Mohsin's digital card: iPhone and Android guide
+# Abdullah Al Mohsin's digital card: phone guide (Nothing CMF Phone 2 Pro, plus iPhone)
 
 Card address: **https://alshams8.github.io/Business-Card-Abdullah-Al-Mohsin/**
 (Keep the capital letters. The NFC tag, the QR code and the contact file all point here.)
@@ -21,7 +21,63 @@ means a cheap **NFC tag**, and "tap my phone" means **NameDrop** (iPhone only).
 
 ---
 
-## If he uses an iPhone
+## His phone: Nothing CMF Phone 2 Pro (Android)
+
+### 1. Put the card on the Home screen (1 minute)
+
+1. Open **Chrome** and go to **https://alshams8.github.io/Business-Card-Abdullah-Al-Mohsin/**
+   (the page must have finished loading).
+2. Tap **⋮** (top right) › **Add to home screen**.
+3. Chrome asks **Install** or **Create shortcut**. Either works:
+   - **Install** adds it as an app (opens full screen, works offline). On Nothing OS the new app may land
+     only in the **app drawer**: swipe up, find **A. Al Mohsin**, press and hold it, drag it to the home screen.
+   - **Create shortcut** puts the icon straight on the home screen.
+4. The card also has an **Add to Home Screen** button near the bottom of the page that does the same thing.
+
+If nothing appears at all:
+- Use **Chrome**, not an in-app browser (a link opened inside WhatsApp, Gmail or Facebook opens a
+  built-in browser that cannot add to the home screen). In that case tap **⋮** › **Open in Chrome** first.
+- Check Chrome is allowed to add icons: **Settings › Apps › Chrome › Permissions** (or **Other permissions**) ›
+  **Home screen shortcuts** › **Allow**, if the phone shows that option.
+- Update Chrome and Google Play services in the Play Store, then try again.
+
+### 2. Save the contact (once)
+
+1. In the card, tap **Save Contact**.
+2. Open the downloaded **contact.vcf** (from the notification or the Downloads folder).
+3. Choose where to save it (Google account or phone), then **Save** / **Import**.
+4. Samsung phones only: open **Contacts**, tap **My profile** at the top and fill it the same way,
+   so Samsung's own **QR code** for "My profile" can be shown too.
+
+### 3. Show the QR code
+
+- Open the card from the Home screen and tap the **QR** button (bottom right of the card), or **Show QR side**.
+- The other person points their camera at it. Any iPhone or Android camera opens the card.
+- Optional: the address with **#qr** at the end opens the QR side directly. Save **https://alshams8.github.io/Business-Card-Abdullah-Al-Mohsin/#qr** as a second Home screen shortcut called "My QR" if he likes.
+
+### 4. NFC tag (works for iPhone and Android visitors)
+
+1. Buy blank **NTAG215** cards or **NTAG213** stickers.
+2. Easiest on Android: open **https://alshams8.github.io/Business-Card-Abdullah-Al-Mohsin/nfc-setup.html** in **Chrome**,
+   tap **Write to NFC tag**, and hold the tag against the **middle of the back** of the phone.
+   (Or use the free **NFC Tools** app: **Write › Add a record › URL / URI** › paste the card address › **Write**.)
+3. NFC on his phone: **Settings › Connected devices › Connection preferences › NFC** must be on
+   (if that setting is missing, his model has no NFC; then write the tag from any other Android phone, or use NFC Tools on an iPhone).
+4. Test: tap the tag with another phone. On Samsung, NFC is under **Settings › Connections › NFC and contactless payments**.
+5. When it works, lock it in NFC Tools: **Other › Lock tag** (permanent).
+
+Tip: put the sticker on the back of his phone case. Other people then tap **his case** with their phone.
+
+### 5. Android to Android: Quick Share
+
+1. In the card, tap **Share Profile** › **Share via…** › **Quick Share**, then tap the nearby phone.
+2. To send the full contact: **Contacts** › his contact › **Share** › **Quick Share** (sends the .vcf).
+3. The other phone must have Quick Share visible (pull down quick settings › **Quick Share** ›
+   **Contacts only** or **Everyone for 10 minutes**).
+
+---
+
+## For iPhone users (if he ever switches, or for colleagues)
 
 ### 1. Put the card on the Home Screen (1 minute)
 
@@ -61,48 +117,6 @@ NameDrop sends only the name, chosen numbers or email, and the Contact Poster. T
   **https://alshams8.github.io/Business-Card-Abdullah-Al-Mohsin/#qr** › name it "My QR".
 - **Settings › Accessibility › Touch › Back Tap › Double Tap** › **My QR**.
   A double tap on the back of the iPhone now opens the card already flipped to the QR side.
-
----
-
-## If he uses an Android phone (Samsung, Pixel, Xiaomi, and others)
-
-### 1. Put the card on the Home screen (1 minute)
-
-- **Chrome:** open the card address › **⋮** menu › **Add to Home screen** (or **Install app**) › **Install**.
-- **Samsung Internet:** open the card address › **☰** menu › **Add page to** › **Home screen**.
-
-### 2. Save the contact (once)
-
-1. In the card, tap **Save Contact**.
-2. Open the downloaded **contact.vcf** (from the notification or the Downloads folder).
-3. Choose where to save it (Google account or phone), then **Save** / **Import**.
-4. Samsung only: open **Contacts**, tap **My profile** at the top and fill it the same way,
-   so Samsung's own **QR code** for "My profile" can be shown too.
-
-### 3. Show the QR code
-
-- Open the card from the Home screen and tap the **QR** button (bottom right of the card), or **Show QR side**.
-- The other person points their camera at it. Any iPhone or Android camera opens the card.
-- Optional: the address with **#qr** at the end opens the QR side directly. Save **https://alshams8.github.io/Business-Card-Abdullah-Al-Mohsin/#qr** as a second Home screen shortcut called "My QR" if he likes.
-
-### 4. NFC tag (works for iPhone and Android visitors)
-
-1. Buy blank **NTAG215** cards or **NTAG213** stickers.
-2. Easiest on Android: open **https://alshams8.github.io/Business-Card-Abdullah-Al-Mohsin/nfc-setup.html** in **Chrome**,
-   tap **Write to NFC tag**, and hold the tag against the **middle of the back** of the phone.
-   (Or use the free **NFC Tools** app: **Write › Add a record › URL / URI** › paste the card address › **Write**.)
-3. Test: tap the tag with another phone. On Android, NFC must be on
-   (**Settings › Connected devices › Connection preferences › NFC**; on Samsung **Settings › Connections › NFC and contactless payments**).
-4. When it works, lock it in NFC Tools: **Other › Lock tag** (permanent).
-
-Tip: put the sticker on the back of his phone case. Other people then tap **his case** with their phone.
-
-### 5. Android to Android: Quick Share
-
-1. In the card, tap **Share Profile** › **Share via…** › **Quick Share**, then tap the nearby phone.
-2. To send the full contact: **Contacts** › his contact › **Share** › **Quick Share** (sends the .vcf).
-3. The other phone must have Quick Share visible (pull down quick settings › **Quick Share** ›
-   **Contacts only** or **Everyone for 10 minutes**).
 
 ---
 
