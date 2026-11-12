@@ -1,6 +1,6 @@
 # Abdullah Al Mohsin's digital card: phone guide (Nothing CMF Phone 2 Pro, plus iPhone)
 
-Card address: **https://alshams8.github.io/Business-Card-Abdullah-Al-Mohsin/**
+Card address: **https://bgols-limited.github.io/Business-Card-Abdullah-Al-Mohsin/**
 (Keep the capital letters. The NFC tag, the QR code and the contact file all point here.)
 
 Mobile 1 **+8801335134476** (WhatsApp) · Mobile 2 **+8801766330755** (WeChat) · **abdullah.mohsin@bgols.com**
@@ -25,7 +25,7 @@ means a cheap **NFC tag**, and "tap my phone" means **NameDrop** (iPhone only).
 
 ### 1. Put the card on the Home screen (1 minute)
 
-1. Open **Chrome** and go to **https://alshams8.github.io/Business-Card-Abdullah-Al-Mohsin/**
+1. Open **Chrome** and go to **https://bgols-limited.github.io/Business-Card-Abdullah-Al-Mohsin/**
    (the page must have finished loading).
 2. Tap **⋮** (top right) › **Add to home screen**.
 3. Chrome asks **Install** or **Create shortcut**. Either works:
@@ -53,12 +53,12 @@ If nothing appears at all:
 
 - Open the card from the Home screen and tap the **QR** button (bottom right of the card), or **Show QR side**.
 - The other person points their camera at it. Any iPhone or Android camera opens the card.
-- Optional: the address with **#qr** at the end opens the QR side directly. Save **https://alshams8.github.io/Business-Card-Abdullah-Al-Mohsin/#qr** as a second Home screen shortcut called "My QR" if he likes.
+- Optional: the address with **#qr** at the end opens the QR side directly. Save **https://bgols-limited.github.io/Business-Card-Abdullah-Al-Mohsin/#qr** as a second Home screen shortcut called "My QR" if he likes.
 
 ### 4. NFC tag (works for iPhone and Android visitors)
 
 1. Buy blank **NTAG215** cards or **NTAG213** stickers.
-2. Easiest on Android: open **https://alshams8.github.io/Business-Card-Abdullah-Al-Mohsin/nfc-setup.html** in **Chrome**,
+2. Easiest on Android: open **https://bgols-limited.github.io/Business-Card-Abdullah-Al-Mohsin/nfc-setup.html** in **Chrome**,
    tap **Write to NFC tag**, and hold the tag against the **middle of the back** of the phone.
    (Or use the free **NFC Tools** app: **Write › Add a record › URL / URI** › paste the card address › **Write**.)
 3. NFC on his phone: **Settings › Connected devices › Connection preferences › NFC** must be on
@@ -81,7 +81,7 @@ Tip: put the sticker on the back of his phone case. Other people then tap **his 
 
 ### 1. Put the card on the Home Screen (1 minute)
 
-1. Open **https://alshams8.github.io/Business-Card-Abdullah-Al-Mohsin/** in **Safari** (not Chrome).
+1. Open **https://bgols-limited.github.io/Business-Card-Abdullah-Al-Mohsin/** in **Safari** (not Chrome).
 2. Tap the **Share** button (square with an arrow), scroll down, tap **Add to Home Screen**, then **Add**.
 3. The icon "A. Al Mohsin" now opens the card like an app, also offline.
 
@@ -114,7 +114,7 @@ NameDrop sends only the name, chosen numbers or email, and the Contact Poster. T
 ### 5. Optional: QR in one double tap
 
 - **Shortcuts** app › **+** › **Add Action** › **Open URLs** › enter
-  **https://alshams8.github.io/Business-Card-Abdullah-Al-Mohsin/#qr** › name it "My QR".
+  **https://bgols-limited.github.io/Business-Card-Abdullah-Al-Mohsin/#qr** › name it "My QR".
 - **Settings › Accessibility › Touch › Back Tap › Double Tap** › **My QR**.
   A double tap on the back of the iPhone now opens the card already flipped to the QR side.
 
